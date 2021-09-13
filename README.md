@@ -48,4 +48,10 @@ Aşağıda Patika.dev SQL dersinin ödevleri bulunmaktadır. Sorgular PostgreSQL
 5- city tablosundaki şehir isimlerinin kaçtanesi 'R' veya r karakteri ile biter?
 
 
+[Odev_5](https://github.com/ErvaCelik/PatikaSQLOdevler/blob/main/Odevler/Odev5.sql) : ORDER BY/ LIMIT/ OFFSET
 
+1- film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en uzun (length) 5 filmi sıralayınız.
+
+2- film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en kısa (length) ikinci 5 filmi sıralayınız.
+
+3- customer tablosunda bulunan last_name sütununa göre azalan yapılan sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.
