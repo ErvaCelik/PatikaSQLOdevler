@@ -55,3 +55,15 @@ Aşağıda Patika.dev SQL dersinin ödevleri bulunmaktadır. Sorgular PostgreSQL
 2- film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en kısa (length) ikinci 5 filmi sıralayınız.
 
 3- customer tablosunda bulunan last_name sütununa göre azalan yapılan sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.
+
+
+[Odev_6](https://github.com/ErvaCelik/PatikaSQLOdevler/blob/main/Odevler/Odev6.sql) : COUNT/ MAX/ MIN/ AVG/ SUM
+
+1- film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
+
+2- film tablosunda bulunan filmlerden kaçtanesi 'C' karekteri ile başlar?
+
+3- film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?
+
+4- film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
+
