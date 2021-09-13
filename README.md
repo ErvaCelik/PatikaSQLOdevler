@@ -24,7 +24,7 @@ Aşağıda Patika.dev SQL dersinin ödevleri bulunmaktadır. Sorgular PostgreSQL
 3- film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99, 2.99, 4.99 VE replacement_cost 12.99, 15.99, 28.99 olma koşullarıyla sıralayınız. ( IN operatörünü kullanınız.)
 
 
-[Odev_3](https://github.com/ErvaCelik/PatikaSQLOdevler/blob/main/Odevler/Odev3.sql)
+[Odev_3](https://github.com/ErvaCelik/PatikaSQLOdevler/blob/main/Odevler/Odev3.sql) : ...LIKE...; / ...ILIKE...;
 
 1- country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 
