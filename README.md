@@ -1,1 +1,1 @@
-# PatikaSQLOdevler
+# Patika_SQL_Odevler
